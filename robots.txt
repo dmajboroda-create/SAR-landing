@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dmajboroda-create.github.io/SAR-landing/sitemap.xml
