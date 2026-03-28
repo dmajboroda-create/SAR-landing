@@ -15,9 +15,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d8dd5e4-240b-4b44-a995-36104bd31c95" name="Changes" comment="--">
+    <list default="true" id="1d8dd5e4-240b-4b44-a995-36104bd31c95" name="Changes" comment="edit2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +89,7 @@
       <updated>1774663371287</updated>
       <workItem from="1774663372310" duration="2573000" />
       <workItem from="1774665973304" duration="124000" />
-      <workItem from="1774666108237" duration="243000" />
+      <workItem from="1774666108237" duration="872000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial project setup — base HTML structure, SEO meta, robots.txt, sitemap">
       <option name="closed" value="true" />
@@ -132,7 +131,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774666152533</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="edit">
+      <option name="closed" value="true" />
+      <created>1774666375792</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774666375792</updated>
+    </task>
+    <task id="LOCAL-00007" summary="edit2">
+      <option name="closed" value="true" />
+      <created>1774666646465</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774666646465</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +160,8 @@
     <MESSAGE value="feat: add responsive styling and typography" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="--" />
-    <option name="LAST_COMMIT_MESSAGE" value="--" />
+    <MESSAGE value="edit" />
+    <MESSAGE value="edit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit2" />
   </component>
 </project>
